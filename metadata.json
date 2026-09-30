@@ -1,0 +1,6 @@
+{
+  "name": "VoyageEase",
+  "description": "Modern hospitality management and travel enrollment platform featuring luxury accommodations, seamless multi-step reservations, host inventory management, and guest itinerary dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
